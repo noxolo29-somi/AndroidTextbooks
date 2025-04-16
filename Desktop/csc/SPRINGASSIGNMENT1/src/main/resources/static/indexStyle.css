@@ -1,0 +1,29 @@
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    background-color: #f4f4f9;
+}
+h1 {
+    color: #333;
+}
+.level-list {
+    list-style: none;
+    padding: 0;
+}
+.course-item {
+    margin: 10px 0;
+    padding: 10px;
+    background: #fff;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+.level-link {
+    text-decoration: none;
+    color: #007bff;
+    font-size: 1.1em;
+}
+.level-link:hover {
+    text-decoration: underline;
+}
